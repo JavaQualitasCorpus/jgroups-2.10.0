@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bsh-1.2b3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testng.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bouncycastle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
